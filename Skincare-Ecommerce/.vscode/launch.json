@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "pwa-chrome",
+        "request": "launch",
+        "name": "Launch Vite App",
+        "file": "file:///C:/Users/ishay/Downloads/skincare-ecommerce/Skincare-Ecommerce/index.html"
+      }
+    ]
+  }
+  
